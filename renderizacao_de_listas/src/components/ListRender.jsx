@@ -52,7 +52,7 @@ const ListRender = () => {
 
     </div>
    
-  )
-}
+  );
+};
 
 export default ListRender;

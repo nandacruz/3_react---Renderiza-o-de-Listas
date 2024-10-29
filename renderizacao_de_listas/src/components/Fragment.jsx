@@ -8,7 +8,7 @@ function Fragment({propFragment}) {
         <h3>Título 2</h3>
         <h4>{propFragment}</h4>
     </>
-  )
-}
+  );
+};
 
 export default Fragment;

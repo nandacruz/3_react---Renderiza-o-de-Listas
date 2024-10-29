@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 
 function ConditionalRender() {
 
@@ -29,4 +29,4 @@ function ConditionalRender() {
   )
 }
 
-export default ConditionalRender
+export default ConditionalRender;

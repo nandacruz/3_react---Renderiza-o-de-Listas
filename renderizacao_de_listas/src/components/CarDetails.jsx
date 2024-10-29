@@ -10,7 +10,7 @@ const CarDetails = ({brand,km,color,newCar}) => {
         </ul>
         {newCar && <p>Este carro é novo!</p>}
     </div>
-  )
-}
+  );
+};
 
-export default CarDetails
+export default CarDetails;
